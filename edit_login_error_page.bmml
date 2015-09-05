@@ -1,0 +1,92 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1364" measuredH="837" mockupW="1363" mockupH="837">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="1" y="0" w="1360" h="837" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>A%20Web%20Page%0Ahttp%3A//</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="1" y="70" w="1363" h="88" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>2848996</color>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::RoundButton" x="80" y="92" w="107" h="51" measuredW="32" measuredH="32" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Company%20logo</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Button" x="448" y="517" w="203" h="27" measuredW="59" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>2848996</color>
+        <text>Log%20in</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::CheckBox" x="403" y="412" w="-1" h="-1" measuredW="118" measuredH="22" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Remember%20me%20%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="326" y="228" w="-1" h="-1" measuredW="529" measuredH="40" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13369344</color>
+        <size>32</size>
+        <text>Welcome%20to%20rential%20and%20tour%20system%20</text>
+        <textOrientation>right</textOrientation>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::TextInput" x="403" y="311" w="322" h="-1" measuredW="79" measuredH="26" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>13369344</borderColor>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::TextInput" x="403" y="381" w="322" h="-1" measuredW="79" measuredH="26" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>13576743</borderColor>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Label" x="403" y="283" w="-1" h="-1" measuredW="66" measuredH="21" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>User%20name</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Label" x="403" y="355" w="-1" h="-1" measuredW="56" measuredH="21" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Password</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::PointyButton" x="1164" y="101" w="-1" h="-1" measuredW="55" measuredH="27" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>editor_login_page%26bm%3Beditor_login_page.bmml%26bm%3Beditor_login_page.bmml%26bm%3Beditor_login_page.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%221163%2C101%2C1218%2C128%22%20href%3D%22editor_login_page.bmml%22%20alt%3D%22editor_login_page%22%20id%3D%2210%22/%3E</map>
+        <text>Editor</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::PointyButton" x="1219" y="101" w="-1" h="-1" measuredW="55" measuredH="27" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>admin_login_page%26bm%3Badmin_login_page.bmml%26bm%3Badmin_login_page.bmml%26bm%3Badmin_login_page.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%221218%2C101%2C1273%2C128%22%20href%3D%22admin_login_page.bmml%22%20alt%3D%22admin_login_page%22%20id%3D%2211%22/%3E</map>
+        <text>Admin</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::Label" x="403" y="566" w="322" h="-1" measuredW="329" measuredH="21" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <color>13576743</color>
+        <text>Invalid%20username%20or%20password%20or%20select%20office%20branch</text>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::ComboBox" x="403" y="469" w="324" h="-1" measuredW="109" measuredH="24" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13576743</color>
+        <text>Select%20offfice</text>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::Label" x="402" y="448" w="-1" h="-1" measuredW="40" measuredH="21" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Branch</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
