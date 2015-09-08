@@ -1,0 +1,250 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1361" measuredH="923" mockupW="1361" mockupH="923">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="0" y="0" w="1361" h="923" measuredW="450" measuredH="400" zOrder="0" locked="true" isInGroup="-1">
+      <controlProperties>
+        <text>A%20Web%20Page%0Ahttp%3A//</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="207" y="72" w="1154" h="88" measuredW="100" measuredH="70" zOrder="1" locked="true" isInGroup="-1">
+      <controlProperties>
+        <color>2848996</color>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::PointyButton" x="1215" y="108" w="-1" h="-1" measuredW="65" measuredH="27" zOrder="2" locked="true" isInGroup="-1">
+      <controlProperties>
+        <href>base_welcome_page%26bm%3Bbase_welcome_page.bmml%26bm%3Bbase_welcome_page.bmml%26bm%3Bbase_welcome_page.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%221215%2C108%2C1280%2C135%22%20href%3D%22base_welcome_page.bmml%22%20alt%3D%22base_welcome_page%22%20id%3D%222%22/%3E</map>
+        <text>Log%20out</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="1068" y="112" w="-1" h="-1" measuredW="126" measuredH="21" zOrder="3" locked="true" isInGroup="-1">
+      <controlProperties>
+        <text>Welcome%3A%20User%20name</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Canvas" x="3" y="72" w="210" h="820" measuredW="100" measuredH="70" zOrder="4" locked="true" isInGroup="-1">
+      <controlProperties>
+        <color>6710886</color>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::RoundButton" x="55" y="84" w="107" h="51" measuredW="32" measuredH="32" zOrder="5" locked="true" isInGroup="-1">
+      <controlProperties>
+        <text>Company%20logo</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Icon" x="24" y="160" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="6" locked="true" isInGroup="-1">
+      <controlProperties>
+        <icon>GridIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Label" x="63" y="160" w="-1" h="-1" measuredW="78" measuredH="24" zOrder="7" locked="true" isInGroup="-1">
+      <controlProperties>
+        <color>16750848</color>
+        <size>16</size>
+        <text>Dashboard</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Icon" x="24" y="193" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="8" locked="true" isInGroup="-1">
+      <controlProperties>
+        <icon>ContactIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Label" x="63" y="193" w="-1" h="-1" measuredW="80" measuredH="24" zOrder="9" locked="true" isInGroup="-1">
+      <controlProperties>
+        <color>16750848</color>
+        <size>16</size>
+        <text>Customers</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Icon" x="253" y="169" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="10" locked="true" isInGroup="-1">
+      <controlProperties>
+        <icon>ContactIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Label" x="292" y="169" w="-1" h="-1" measuredW="80" measuredH="24" zOrder="11" locked="true" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <size>16</size>
+        <text>Customers</text>
+      </controlProperties>
+    </control>
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::Link" x="269" y="867" w="-1" h="-1" measuredW="133" measuredH="19" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>adim_customer_detail</text>
+      </controlProperties>
+    </control>
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::Link" x="269" y="848" w="-1" h="-1" measuredW="62" measuredH="19" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>admin_welcome_page%26bm%3Badmin_welcome_page.bmml%26bm%3Badmin_welcome_page.bmml%26bm%3Badmin_welcome_page.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22269%2C848%2C331%2C867%22%20href%3D%22admin_welcome_page.bmml%22%20alt%3D%22admin_welcome_page%22%20id%3D%2220%22/%3E</map>
+        <text>dashboard</text>
+      </controlProperties>
+    </control>
+    <control controlID="22" controlTypeID="com.balsamiq.mockups::Label" x="672" y="171" w="-1" h="-1" measuredW="129" measuredH="21" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Customer%20Information</text>
+      </controlProperties>
+    </control>
+    <control controlID="23" controlTypeID="com.balsamiq.mockups::HRule" x="213" y="204" w="1141" h="-1" measuredW="100" measuredH="10" zOrder="15" locked="true" isInGroup="-1"/>
+    <control controlID="24" controlTypeID="com.balsamiq.mockups::Label" x="277" y="232" w="-1" h="-1" measuredW="65" measuredH="21" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>First%20Name</text>
+      </controlProperties>
+    </control>
+    <control controlID="26" controlTypeID="com.balsamiq.mockups::TextInput" x="434" y="229" w="368" h="-1" measuredW="35" measuredH="27" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Set</text>
+      </controlProperties>
+    </control>
+    <control controlID="27" controlTypeID="com.balsamiq.mockups::Label" x="277" y="271" w="-1" h="-1" measuredW="66" measuredH="21" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Last%20Name</text>
+      </controlProperties>
+    </control>
+    <control controlID="28" controlTypeID="com.balsamiq.mockups::TextInput" x="434" y="268" w="368" h="-1" measuredW="53" measuredH="27" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Hattha</text>
+      </controlProperties>
+    </control>
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::Label" x="277" y="344" w="-1" h="-1" measuredW="32" measuredH="21" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Email</text>
+      </controlProperties>
+    </control>
+    <control controlID="30" controlTypeID="com.balsamiq.mockups::TextInput" x="434" y="341" w="368" h="-1" measuredW="141" measuredH="27" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>hatthaset@gmail.com</text>
+      </controlProperties>
+    </control>
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::Label" x="277" y="379" w="-1" h="-1" measuredW="60" measuredH="21" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Telephone</text>
+      </controlProperties>
+    </control>
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::TextInput" x="434" y="376" w="368" h="-1" measuredW="85" measuredH="27" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>098765434</text>
+      </controlProperties>
+    </control>
+    <control controlID="33" controlTypeID="com.balsamiq.mockups::Label" x="277" y="414" w="-1" h="-1" measuredW="80" measuredH="21" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Ad.%20telephone</text>
+      </controlProperties>
+    </control>
+    <control controlID="34" controlTypeID="com.balsamiq.mockups::TextInput" x="434" y="411" w="368" h="-1" measuredW="79" measuredH="26" zOrder="25" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="35" controlTypeID="com.balsamiq.mockups::Label" x="277" y="498" w="-1" h="-1" measuredW="38" measuredH="21" zOrder="26" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Avatar</text>
+      </controlProperties>
+    </control>
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::Image" x="434" y="498" w="367" h="160" measuredW="400" measuredH="265" zOrder="27" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./images/set_hatta.jpg</src>
+      </controlProperties>
+    </control>
+    <control controlID="37" controlTypeID="com.balsamiq.mockups::Label" x="277" y="713" w="-1" h="-1" measuredW="49" measuredH="21" zOrder="28" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Address</text>
+      </controlProperties>
+    </control>
+    <control controlID="38" controlTypeID="com.balsamiq.mockups::Label" x="277" y="453" w="-1" h="-1" measuredW="56" measuredH="21" zOrder="29" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Password</text>
+      </controlProperties>
+    </control>
+    <control controlID="39" controlTypeID="com.balsamiq.mockups::TextInput" x="434" y="450" w="368" h="-1" measuredW="71" measuredH="27" zOrder="30" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>N627409</text>
+      </controlProperties>
+    </control>
+    <control controlID="40" controlTypeID="com.balsamiq.mockups::TextArea" x="434" y="709" w="367" h="64" measuredW="200" measuredH="140" zOrder="31" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>No%2011CD%2C%20St.230%2C%20Teuk%20Laork%20III%2C%20Toul%20Kork%2C%20Phnom%20Penh%20Cambodia.</text>
+      </controlProperties>
+    </control>
+    <control controlID="41" controlTypeID="com.balsamiq.mockups::Label" x="277" y="676" w="-1" h="-1" measuredW="56" measuredH="21" zOrder="32" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Company</text>
+      </controlProperties>
+    </control>
+    <control controlID="42" controlTypeID="com.balsamiq.mockups::TextInput" x="434" y="673" w="368" h="-1" measuredW="74" measuredH="27" zOrder="33" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Codingate</text>
+      </controlProperties>
+    </control>
+    <control controlID="43" controlTypeID="com.balsamiq.mockups::Button" x="434" y="781" w="-1" h="-1" measuredW="64" measuredH="27" zOrder="34" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Submit</text>
+      </controlProperties>
+    </control>
+    <control controlID="44" controlTypeID="com.balsamiq.mockups::Link" x="348" y="848" w="-1" h="-1" measuredW="63" measuredH="19" zOrder="35" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>admin_customers%26bm%3Badmin_customers.bmml%26bm%3Badmin_customers.bmml%26bm%3Badmin_customers.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22348%2C848%2C411%2C867%22%20href%3D%22admin_customers.bmml%22%20alt%3D%22admin_customers%22%20id%3D%2244%22/%3E</map>
+        <text>customers</text>
+      </controlProperties>
+    </control>
+    <control controlID="45" controlTypeID="com.balsamiq.mockups::Label" x="277" y="306" w="-1" h="-1" measuredW="23" measuredH="21" zOrder="36" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Sex</text>
+      </controlProperties>
+    </control>
+    <control controlID="47" controlTypeID="com.balsamiq.mockups::ComboBox" x="434" y="307" w="367" h="-1" measuredW="73" measuredH="24" zOrder="37" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Female</text>
+      </controlProperties>
+    </control>
+    <control controlID="48" controlTypeID="com.balsamiq.mockups::Icon" x="26" y="219" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="38" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>ContactsIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="49" controlTypeID="com.balsamiq.mockups::Label" x="65" y="219" w="-1" h="-1" measuredW="79" measuredH="24" zOrder="39" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16750848</color>
+        <size>16</size>
+        <text>Employees</text>
+      </controlProperties>
+    </control>
+    <control controlID="50" controlTypeID="com.balsamiq.mockups::Icon" x="26" y="249" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="40" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>DataBaseIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="51" controlTypeID="com.balsamiq.mockups::Label" x="65" y="249" w="-1" h="-1" measuredW="66" measuredH="24" zOrder="41" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16750848</color>
+        <size>16</size>
+        <text>Services</text>
+      </controlProperties>
+    </control>
+    <control controlID="52" controlTypeID="com.balsamiq.mockups::Icon" x="26" y="276" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="42" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>AIMIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="53" controlTypeID="com.balsamiq.mockups::Label" x="65" y="276" w="-1" h="-1" measuredW="68" measuredH="24" zOrder="43" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16750848</color>
+        <size>16</size>
+        <text>Suppliers</text>
+      </controlProperties>
+    </control>
+    <control controlID="54" controlTypeID="com.balsamiq.mockups::Icon" x="28" y="303" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="44" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>FolderClosed%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="55" controlTypeID="com.balsamiq.mockups::Label" x="67" y="303" w="-1" h="-1" measuredW="58" measuredH="24" zOrder="45" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16750848</color>
+        <size>16</size>
+        <text>Reports</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
