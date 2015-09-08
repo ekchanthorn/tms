@@ -246,5 +246,17 @@
         <text>Reports</text>
       </controlProperties>
     </control>
+    <control controlID="56" controlTypeID="com.balsamiq.mockups::Icon" x="30" y="329" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="46" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>EuroIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="57" controlTypeID="com.balsamiq.mockups::Label" x="69" y="329" w="-1" h="-1" measuredW="33" measuredH="24" zOrder="47" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16750848</color>
+        <size>16</size>
+        <text>Sale</text>
+      </controlProperties>
+    </control>
   </controls>
 </mockup>

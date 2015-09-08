@@ -80,7 +80,7 @@
         <text>Select%2CFirst%20Name%2CLast%20Name%2CEmail%2CTelephone%0A%5Bx%5D%2CSok%2CVanak%2Csok_vanakt@gmail.com%2C093344363%2CEdit%0A%5B%5D%2CSet%2CHattha%2Chatthaset@gmail.com%2C098765434%2CEdit%0A%5B%5D%2CSok%2CVanak%2Csok_vanakt@gmail.com%2C093344363%2CEdit%0A%5B%5D%2CSet%2Chattha%2Chatthaset@gmail.com%2C098765434%2CEdit%0A%5B%5D%2COun%2CPesey%2Coun.pesey@yahoo.com%2C0923442248%2CEdit%0A%5B%5D%2CSet%2Chattha%2Chatthaset@gmail.com%2C098765434%2CEdit%0A%5B%5D%2CSet%2Chattha%2Chatthaset@gmail.com%2C098765434%2CEdit%0A%5B%5D%2CSet%2Chattha%2Chatthaset@gmail.com%2C098765434%2CEdit%0A%5B%5D%2CSet%2Chattha%2Chatthaset@gmail.com%2C098765434%2CEdit%0A%5B%5D%2CSet%2Chattha%2Chatthaset@gmail.com%2C098765434%2CEdit%0A%5B%5D%2CSet%2Chattha%2Chatthaset@gmail.com%2C098765434%2CEdit%0A%5B%5D%2CSet%2Chattha%2Chatthaset@gmail.com%2C098765434%2CEdit%0A%5B%5D%2CSet%2Chattha%2Chatthaset@gmail.com%2C098765434%2CEdit%0A%5B%5D%2CSet%2Chattha%2Chatthaset@gmail.com%2C098765434%2CEdit</text>
       </controlProperties>
     </control>
-    <control controlID="34" controlTypeID="com.balsamiq.mockups::Image" x="299" y="658" w="494" h="45" measuredW="433" measuredH="55" zOrder="20" locked="true" isInGroup="-1">
+    <control controlID="34" controlTypeID="com.balsamiq.mockups::Image" x="299" y="658" w="494" h="45" measuredW="433" measuredH="55" zOrder="20" locked="false" isInGroup="-1">
       <controlProperties>
         <src>./images/pagination.png</src>
       </controlProperties>

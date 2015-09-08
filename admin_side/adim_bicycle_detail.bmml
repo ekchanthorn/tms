@@ -208,9 +208,9 @@
         <text>Duration</text>
       </controlProperties>
     </control>
-    <control controlID="76" controlTypeID="com.balsamiq.mockups::TextInput" x="434" y="818" w="176" h="-1" measuredW="23" measuredH="27" zOrder="40" locked="false" isInGroup="-1">
+    <control controlID="76" controlTypeID="com.balsamiq.mockups::TextInput" x="434" y="818" w="176" h="-1" measuredW="79" measuredH="26" zOrder="40" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>%24</text>
+        <text/>
       </controlProperties>
     </control>
     <control controlID="77" controlTypeID="com.balsamiq.mockups::Icon" x="24" y="280" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="41" locked="false" isInGroup="-1">
@@ -235,6 +235,18 @@
         <color>16750848</color>
         <size>16</size>
         <text>Reports</text>
+      </controlProperties>
+    </control>
+    <control controlID="81" controlTypeID="com.balsamiq.mockups::Icon" x="28" y="335" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="45" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>EuroIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="82" controlTypeID="com.balsamiq.mockups::Label" x="67" y="335" w="-1" h="-1" measuredW="33" measuredH="24" zOrder="46" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16750848</color>
+        <size>16</size>
+        <text>Sale</text>
       </controlProperties>
     </control>
   </controls>
