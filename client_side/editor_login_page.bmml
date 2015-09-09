@@ -15,13 +15,13 @@
         <text>Company%20logo</text>
       </controlProperties>
     </control>
-    <control controlID="16" controlTypeID="com.balsamiq.mockups::Button" x="447" y="550" w="203" h="27" measuredW="59" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::Button" x="455" y="492" w="203" h="27" measuredW="59" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
         <color>2848996</color>
         <text>Log%20in</text>
       </controlProperties>
     </control>
-    <control controlID="17" controlTypeID="com.balsamiq.mockups::CheckBox" x="402" y="513" w="-1" h="-1" measuredW="118" measuredH="22" zOrder="4" locked="false" isInGroup="-1">
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::CheckBox" x="410" y="455" w="-1" h="-1" measuredW="118" measuredH="22" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Remember%20me%20%3F</text>
       </controlProperties>
@@ -39,7 +39,7 @@
         <text/>
       </controlProperties>
     </control>
-    <control controlID="20" controlTypeID="com.balsamiq.mockups::TextInput" x="402" y="414" w="322" h="-1" measuredW="79" measuredH="26" zOrder="7" locked="false" isInGroup="-1">
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::TextInput" x="402" y="406" w="322" h="-1" measuredW="79" measuredH="26" zOrder="7" locked="false" isInGroup="-1">
       <controlProperties>
         <text/>
       </controlProperties>
@@ -49,43 +49,19 @@
         <text>User%20name</text>
       </controlProperties>
     </control>
-    <control controlID="22" controlTypeID="com.balsamiq.mockups::Label" x="402" y="386" w="-1" h="-1" measuredW="56" measuredH="21" zOrder="9" locked="false" isInGroup="-1">
+    <control controlID="22" controlTypeID="com.balsamiq.mockups::Label" x="402" y="382" w="-1" h="-1" measuredW="56" measuredH="21" zOrder="9" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Password</text>
       </controlProperties>
     </control>
-    <control controlID="23" controlTypeID="com.balsamiq.mockups::PointyButton" x="1163" y="104" w="-1" h="-1" measuredW="55" measuredH="27" zOrder="10" locked="false" isInGroup="-1">
-      <controlProperties>
-        <href>editor_login_page%26bm%3Beditor_login_page.bmml%26bm%3Beditor_login_page.bmml%26bm%3Beditor_login_page.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%221163%2C104%2C1218%2C131%22%20href%3D%22editor_login_page.bmml%22%20alt%3D%22editor_login_page%22%20id%3D%2223%22/%3E</map>
-        <text>Editor</text>
-      </controlProperties>
-    </control>
-    <control controlID="24" controlTypeID="com.balsamiq.mockups::PointyButton" x="1218" y="104" w="-1" h="-1" measuredW="55" measuredH="27" zOrder="11" locked="false" isInGroup="-1">
-      <controlProperties>
-        <href>admin_login_page%26bm%3Badmin_login_page.bmml%26bm%3Badmin_login_page.bmml%26bm%3Badmin_login_page.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%221218%2C104%2C1273%2C131%22%20href%3D%22admin_login_page.bmml%22%20alt%3D%22admin_login_page%22%20id%3D%2224%22/%3E</map>
-        <text>Admin</text>
-      </controlProperties>
-    </control>
-    <control controlID="25" controlTypeID="com.balsamiq.mockups::ComboBox" x="400" y="471" w="324" h="-1" measuredW="109" measuredH="24" zOrder="12" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Select%20offfice</text>
-      </controlProperties>
-    </control>
-    <control controlID="26" controlTypeID="com.balsamiq.mockups::Label" x="402" y="450" w="-1" h="-1" measuredW="40" measuredH="21" zOrder="13" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Branch</text>
-      </controlProperties>
-    </control>
-    <control controlID="27" controlTypeID="com.balsamiq.mockups::Link" x="1072" y="733" w="-1" h="-1" measuredW="35" measuredH="19" zOrder="14" locked="false" isInGroup="-1">
+    <control controlID="27" controlTypeID="com.balsamiq.mockups::Link" x="1072" y="733" w="-1" h="-1" measuredW="35" measuredH="19" zOrder="10" locked="false" isInGroup="-1">
       <controlProperties>
         <href>edit_welcome_page%26bm%3Bedit_welcome_page.bmml%26bm%3Bedit_welcome_page.bmml%26bm%3Bedit_welcome_page.bmml</href>
         <map>%3Carea%20shape%3D%22rect%22%20coords%3D%221072%2C733%2C1107%2C752%22%20href%3D%22edit_welcome_page.bmml%22%20alt%3D%22edit_welcome_page%22%20id%3D%2227%22/%3E</map>
         <text>editor</text>
       </controlProperties>
     </control>
-    <control controlID="28" controlTypeID="com.balsamiq.mockups::Link" x="1027" y="733" w="-1" h="-1" measuredW="30" measuredH="19" zOrder="15" locked="false" isInGroup="-1">
+    <control controlID="28" controlTypeID="com.balsamiq.mockups::Link" x="1027" y="733" w="-1" h="-1" measuredW="30" measuredH="19" zOrder="11" locked="false" isInGroup="-1">
       <controlProperties>
         <href>edit_login_error_page%26bm%3Bedit_login_error_page.bmml%26bm%3Bedit_login_error_page.bmml%26bm%3Bedit_login_error_page.bmml</href>
         <map>%3Carea%20shape%3D%22rect%22%20coords%3D%221027%2C733%2C1057%2C752%22%20href%3D%22edit_login_error_page.bmml%22%20alt%3D%22edit_login_error_page%22%20id%3D%2228%22/%3E</map>

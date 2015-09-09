@@ -177,5 +177,25 @@
         <icon>EuroIcon%7Csmall</icon>
       </controlProperties>
     </control>
+    <control controlID="96" controlTypeID="com.balsamiq.mockups::Label" x="252" y="116" w="-1" h="-1" measuredW="133" measuredH="21" zOrder="32" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>You%20are%20%3A%20Receptionist%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="97" controlTypeID="com.balsamiq.mockups::Label" x="397" y="94" w="-1" h="-1" measuredW="92" measuredH="21" zOrder="33" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>You%20are%20now%20in%20%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="98" controlTypeID="com.balsamiq.mockups::ComboBox" x="397" y="115" w="229" h="-1" measuredW="197" measuredH="24" zOrder="34" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Codingate%20web%20development</text>
+      </controlProperties>
+    </control>
+    <control controlID="99" controlTypeID="com.balsamiq.mockups::Label" x="397" y="94" w="-1" h="-1" measuredW="92" measuredH="21" zOrder="35" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>You%20are%20now%20in%20%3A</text>
+      </controlProperties>
+    </control>
   </controls>
 </mockup>
